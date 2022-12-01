@@ -30,11 +30,7 @@ public class FireBulletManager : MonoBehaviour
         Destroy(spawnedBullet, 5);
     }
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
+
 
 
 }
