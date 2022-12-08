@@ -1,4 +1,4 @@
-# XRInteractionToolkit_Template
+# LightsaberGame
 
 VR Template with the XR Interaction Toolkit package on Unity. 
 
