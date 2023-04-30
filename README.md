@@ -1,6 +1,6 @@
 # LightsaberGame
 
-VR Template with the XR Interaction Toolkit package on Unity. 
+VR game with lightsaber made with the XR Interaction Toolkit package on Unity. 
 
 https://matthieucoquelin.itch.io/lightsabergame
 
